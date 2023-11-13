@@ -1,4 +1,1 @@
-Hello :)
-\n
-This is my code.
-I'm not sure what else to put here but this is a work in progress.
+print(f"Hello, this is my code. \nIt's not done yet, but I'm trying :)")
